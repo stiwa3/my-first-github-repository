@@ -1,3 +1,7 @@
 Just another file created in the Feature-1 branch.
+<<<<<<< HEAD
 This file was modified locally.
 Edit locally
+=======
+One more edit at remote repo.
+>>>>>>> eafaea4a37917cb9e5fa0bec1791eecfc6db6492
